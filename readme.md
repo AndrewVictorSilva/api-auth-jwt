@@ -8,3 +8,8 @@ Features
 * Mongodb as database. 
 * Mongoose to create models and to connect to <span style="text-decoration:underline">**express**</span> server.
 * bcryptjs to hash passwords and jwt to check for private routes.
+
+
+
+
+🔑 Remeber to create the .env file.
